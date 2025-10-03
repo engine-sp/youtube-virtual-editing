@@ -5,3 +5,5 @@
 工具也提供閱覽完整剪接結果，並提供分享網址，可以直接進入頁面檢視精華片段影片
 
 100% Gemini Canvas 製作
+
+預覽請[參考](https://engine-sp.github.io/youtube-virtual-editing/)
